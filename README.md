@@ -2,7 +2,7 @@
 
 1. Ejecute el script **DBscript** para crear o resetear:
 
-   - La tabla products en SQLite3.
+   - La tabla products en SQL.
 
    ```
      npm run DBscript
